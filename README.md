@@ -1,5 +1,6 @@
 # wwan-mt
 wwan mpcie meshtastic interface for laptops
+My dumb idea to make a Meshtastic node for the cellular modem slot on old Thinkpads and such.
 
 # ideas
 - Use a [mpcie2usb](https://www.amazon.com/Zer-one-Adapter-Converter-Expansion/dp/B07XD3Q2XM) with a tiny node, or design a complete board
